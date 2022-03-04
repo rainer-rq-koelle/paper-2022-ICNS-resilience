@@ -1,0 +1,22 @@
+---
+title: "Air Navigation System Resilience"
+description: |
+  How to measure resilience when there is no demand? 
+  Paper submitted to ICNS2022 studying ways to measure air navigation system
+  resilience when there is a drastic demand change.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+This webpage is the work space for the ICNS2022 paper.
