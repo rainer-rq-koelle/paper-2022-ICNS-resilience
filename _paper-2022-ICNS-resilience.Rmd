@@ -1,0 +1,61 @@
+---
+title: "How to measure resilience when there is no demand?"
+author: "Rainer Koelle, EUROCONTROL, Brussels (Belgium) Fabio Barbosa, DECEA, Rio de Janeiro (Brazil)"
+#date: "04/03/2022"
+output: 
+  bookdown::word_document2: 
+    reference_docx: "_template-22AuthorsInst.docx"
+bibliography: "_resilience.bib"
+#  abstract: |    ICNS uses heading for abtract
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+Resilience is important.
+
+# Introduction
+
+Teaser
+
+Why important
+
+Previous work
+
+## heading 2
+
+some cool text etc
+
+* bullet 
+* more bullets
+* one more bullet
+
+### heading 3
+
+cool text and cool reference @koelle_resilience_2015.
+
+possibly some code chunks
+
+```{r}
+# this could be code
+```
+
+<!-- MOVE THIS AFER THE REFERENCES IN THE FINAL VERSION! -->
+# Acknowledgements
+If an acknowledgement is necessary, include it under the heading Acknowledgements using the Heading 1 style. Use the Body Text style and include the acknowledgements immediately after the references.
+# Disclaimer
+If a disclaimer is necessary, include it under the heading Disclaimer using the Heading 1 style. Use the Body Text/Normal Text style and include the disclaimer immediately after the acknowledgements.
+# Email Addresses
+
+# Conference Identification
+
+2022 Integrated Communications Navigation and Surveillance (ICNS) Conference
+April 5-7, 2022 
+
+
+
+# References
+
