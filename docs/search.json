@@ -2,19 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About",
+      "description": "About page of the paper workspace.",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-04T17:31:44+01:00"
+      "contents": "\r\nThis paper is jointly written by Rainer Koelle and Fabio Barbosa. The work builds on an earlier paper and expands into addressing one of the deter\r\nRainer Koelle heads the Operational Performance Service at EUROCONTROL, Aviation Intelligence Unit. His research interests revolve around novel data-analytical approaches to measure air navigation system performance.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-04T17:54:39+01:00"
     },
     {
       "path": "index.html",
-      "title": "xxx",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Air Navigation System Resilience",
+      "description": "How to measure resilience when there is no demand? \nPaper submitted to ICNS2022 studying ways to measure air navigation system\nresilience when there is a drastic demand change.\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-04T17:31:45+01:00"
+      "contents": "\r\nThis webpage is the work space for the ICNS2022 paper.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-04T17:54:40+01:00"
     }
   ],
   "collections": []

@@ -1,7 +1,9 @@
 name: "paper-2022-ICNS-resilience"
-title: "xxx"
+title: "Air Navigation System Resilience"
 description: |
-  xxx
+  How to measure resilience when there is no demand?
+  Paper submitted to ICNS2022 studying ways to measure air navigation system
+  resilience when there is a drastic demand change.
 output_dir: "docs"
 navbar:
   right:

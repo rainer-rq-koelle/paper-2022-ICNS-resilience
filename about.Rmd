@@ -1,10 +1,15 @@
 ---
-title: "About this site"
+title: "About"
 description: |
-  Some additional details about the website
+  About page of the paper workspace.
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+This paper is jointly written by Rainer Koelle and Fabio Barbosa.
+The work builds on an earlier paper and expands into addressing one of the deter
+
+Rainer Koelle heads the Operational Performance Service at EUROCONTROL, Aviation Intelligence Unit.
+His research interests revolve around novel data-analytical approaches to measure air navigation system performance.
